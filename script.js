@@ -1,4 +1,4 @@
 function mostrarMensagem() {
-    const mensageem = document.getElementById('mensagem');
-    mensageem.textContent = 'Nunca desista de aprender!';
+    const mensagem = document.getElementById('mensagem');
+    mensagem.textContent = 'Nunca desista de aprender!';
 }
